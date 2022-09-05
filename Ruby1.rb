@@ -315,3 +315,4 @@ puts "Hello World"
 # % ruby helloworld.rb
 # 表示はいかがでしたか？
 # 「Hello World」しか表示されないはずです。
+puts "俺"
